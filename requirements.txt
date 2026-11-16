@@ -1,0 +1,7 @@
+# Install a CUDA build of torch first: https://pytorch.org/get-started/locally/
+torch>=2.4
+transformers>=4.45
+numpy>=2.0
+pillow>=11.0
+h5py>=3.10
+matplotlib>=3.9   # only for tools/make_figures.py and tools/make_qualitative.py plot
