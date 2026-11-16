@@ -1,0 +1,665 @@
+{
+ "Small, untouched": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.7972123573697242,
+    "RMSE": 0.6198531871651024,
+    "delta1": 0.08544940575735621,
+    "bias": 1.7393758624126852,
+    "median_AbsRel": 0.12084595069561145,
+    "median_delta1": 0.8458275515413202
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.4218343467181868,
+    "RMSE": 0.8014906763373708,
+    "delta1": 0.40215065026809504,
+    "bias": 1.4025804446153305,
+    "median_AbsRel": 0.12138699327210911,
+    "median_delta1": 0.8213144130956184
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.1437277548186513,
+    "RMSE": 0.4180682924903573,
+    "delta1": 0.8397785537278212,
+    "bias": 1.0917381595442337,
+    "median_AbsRel": 0.08262162676447787,
+    "median_delta1": 0.9105926312345205
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.21221174876108442,
+    "RMSE": 0.6102805763139905,
+    "delta1": 0.6650769815464114,
+    "bias": 1.1341370092822167,
+    "median_AbsRel": 0.09650899246836044,
+    "median_delta1": 0.8786399251988428
+   }
+  },
+  "macro": {
+   "AbsRel": 0.39374655191691166,
+   "RMSE": 0.6124231830767053,
+   "delta1": 0.498113897824921,
+   "bias": 1.3419578689636165,
+   "median_AbsRel": 0.10534089080013971,
+   "median_delta1": 0.8640936302675755
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Large, untouched": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.5858499515482246,
+    "RMSE": 0.48431006818191397,
+    "delta1": 0.05694142367114255,
+    "bias": 1.530031014109564,
+    "median_AbsRel": 0.08581572797366788,
+    "median_delta1": 0.9317510379999331
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.40160165006345144,
+    "RMSE": 0.849313333869995,
+    "delta1": 0.2721498570769454,
+    "bias": 1.3682564691563293,
+    "median_AbsRel": 0.12240908083675177,
+    "median_delta1": 0.8534905802058107
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.19150680707725592,
+    "RMSE": 0.44656763870472527,
+    "delta1": 0.832891383289454,
+    "bias": 1.1793457473943187,
+    "median_AbsRel": 0.052207721980241636,
+    "median_delta1": 0.965104644760924
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.16804729317236775,
+    "RMSE": 0.383853557456607,
+    "delta1": 0.813462486550778,
+    "bias": 1.1415693686147623,
+    "median_AbsRel": 0.05816737849731973,
+    "median_delta1": 0.9515734688756364
+   }
+  },
+  "macro": {
+   "AbsRel": 0.33675142546532494,
+   "RMSE": 0.5410111495533103,
+   "delta1": 0.49386128764708,
+   "bias": 1.3048006498187437,
+   "median_AbsRel": 0.07964997732199526,
+   "median_delta1": 0.925479932960576
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Split + FastKAN, lens-balanced, seed 0": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.6128840661852983,
+    "RMSE": 0.46778752299240567,
+    "delta1": 0.13503262120730428,
+    "bias": 1.5924077908816683,
+    "median_AbsRel": 0.10946885047102524,
+    "median_delta1": 0.8797060346668694
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.21791120061538838,
+    "RMSE": 0.4998665019632606,
+    "delta1": 0.5884436881733696,
+    "bias": 1.1170534942284442,
+    "median_AbsRel": 0.1269745213369581,
+    "median_delta1": 0.829876875064904
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.21099216293575485,
+    "RMSE": 0.6776224690045833,
+    "delta1": 0.5034968300960048,
+    "bias": 0.8022740472095734,
+    "median_AbsRel": 0.08398244088412193,
+    "median_delta1": 0.9083115969083196
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.21918214873431918,
+    "RMSE": 0.8666087312739981,
+    "delta1": 0.551489415623944,
+    "bias": 0.866068638586473,
+    "median_AbsRel": 0.10660462438473434,
+    "median_delta1": 0.8598151494226957
+   }
+  },
+  "macro": {
+   "AbsRel": 0.3152423946176902,
+   "RMSE": 0.6279713063085619,
+   "delta1": 0.4446156387751557,
+   "bias": 1.0944509927265398,
+   "median_AbsRel": 0.10675760926920991,
+   "median_delta1": 0.8694274140156972
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Split + FastKAN, lens-balanced, seed 1": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.5606145424822045,
+    "RMSE": 0.42986211910813,
+    "delta1": 0.17980671830791306,
+    "bias": 1.5382006273732747,
+    "median_AbsRel": 0.10861702423272991,
+    "median_delta1": 0.8802611217683014
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.19625338550806748,
+    "RMSE": 0.4850587558982204,
+    "delta1": 0.6602175720070436,
+    "bias": 1.0652481650242054,
+    "median_AbsRel": 0.1298016686497231,
+    "median_delta1": 0.8250432955665779
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.22131419185631174,
+    "RMSE": 0.6963598912719493,
+    "delta1": 0.4820829893924899,
+    "bias": 0.7894579679733732,
+    "median_AbsRel": 0.08485945781335523,
+    "median_delta1": 0.9085754399359328
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.2147834161104025,
+    "RMSE": 0.8587623912716204,
+    "delta1": 0.5686237277334201,
+    "bias": 0.8717606145513325,
+    "median_AbsRel": 0.10524066982075764,
+    "median_delta1": 0.8596444504568125
+   }
+  },
+  "macro": {
+   "AbsRel": 0.29824138398924654,
+   "RMSE": 0.61751078938748,
+   "delta1": 0.47268275186021663,
+   "bias": 1.0661668437305465,
+   "median_AbsRel": 0.10712970512914147,
+   "median_delta1": 0.8683810769319061
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Split + FastKAN, lens-balanced, seed 2": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.6631007536386165,
+    "RMSE": 0.5088830949163247,
+    "delta1": 0.10643579085604406,
+    "bias": 1.6402341870286454,
+    "median_AbsRel": 0.10630716990428171,
+    "median_delta1": 0.8854381316753458
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.20755893663119537,
+    "RMSE": 0.5103741540184276,
+    "delta1": 0.6282944170213077,
+    "bias": 1.0721445816902089,
+    "median_AbsRel": 0.13980831822841724,
+    "median_delta1": 0.8088183336488128
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.1829895737458302,
+    "RMSE": 0.607722837194697,
+    "delta1": 0.5856793837193316,
+    "bias": 0.8363084698343696,
+    "median_AbsRel": 0.08625368035255761,
+    "median_delta1": 0.9081194116991953
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.19880520412098612,
+    "RMSE": 0.8128716032852604,
+    "delta1": 0.6260658009483161,
+    "bias": 0.9077053146257619,
+    "median_AbsRel": 0.10596036664810494,
+    "median_delta1": 0.8622578230920211
+   }
+  },
+  "macro": {
+   "AbsRel": 0.3131136170341571,
+   "RMSE": 0.6099629223536774,
+   "delta1": 0.4866188481362499,
+   "bias": 1.1140981382947464,
+   "median_AbsRel": 0.10958238378334037,
+   "median_delta1": 0.8661584250288438
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Split + FastKAN, lens-balanced, LoRA r8": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.5133665633109534,
+    "RMSE": 0.423391344121076,
+    "delta1": 0.15151107760182297,
+    "bias": 1.474138337845582,
+    "median_AbsRel": 0.10588365096692082,
+    "median_delta1": 0.9050904821830927
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.1800265870663501,
+    "RMSE": 0.46755924473160476,
+    "delta1": 0.6781247252027818,
+    "bias": 1.0322373954927186,
+    "median_AbsRel": 0.10639617056563164,
+    "median_delta1": 0.8499822055241735
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.22578161519251347,
+    "RMSE": 0.6945131195849024,
+    "delta1": 0.44323940556229524,
+    "bias": 0.7854184882018168,
+    "median_AbsRel": 0.07511316364752707,
+    "median_delta1": 0.9291807442065416
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.18059453551702173,
+    "RMSE": 0.7807454761802413,
+    "delta1": 0.6590253140082539,
+    "bias": 0.8853101295298873,
+    "median_AbsRel": 0.09936993110634346,
+    "median_delta1": 0.879299520908632
+   }
+  },
+  "macro": {
+   "AbsRel": 0.2749423252717097,
+   "RMSE": 0.5915522961544561,
+   "delta1": 0.4829751305937885,
+   "bias": 1.0442760877675012,
+   "median_AbsRel": 0.09669072907160574,
+   "median_delta1": 0.8908882382056099
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Split + FastKAN votes, lens-balanced, LoRA r8": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.438760090913709,
+    "RMSE": 0.3598382990935274,
+    "delta1": 0.24212650769023017,
+    "bias": 1.404061002969044,
+    "median_AbsRel": 0.10349649306386575,
+    "median_delta1": 0.9115213715294906
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.20437029689291578,
+    "RMSE": 0.48635837180443153,
+    "delta1": 0.6443926764538229,
+    "bias": 1.103385963631288,
+    "median_AbsRel": 0.11633591273989916,
+    "median_delta1": 0.8348664782736458
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.22691453944677398,
+    "RMSE": 0.7026550148085023,
+    "delta1": 0.4499097759420956,
+    "bias": 0.7849211191809886,
+    "median_AbsRel": 0.0811611116818767,
+    "median_delta1": 0.923644624163514
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.19666379435922013,
+    "RMSE": 0.7913153150804922,
+    "delta1": 0.5872128906497448,
+    "bias": 0.8571698454287697,
+    "median_AbsRel": 0.10015370617141628,
+    "median_delta1": 0.8744390770502103
+   }
+  },
+  "macro": {
+   "AbsRel": 0.26667718040315475,
+   "RMSE": 0.5850417501967384,
+   "delta1": 0.4809104626839733,
+   "bias": 1.0373844828025225,
+   "median_AbsRel": 0.10028680591426448,
+   "median_delta1": 0.8861178877542152
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Split + FastKAN votes + metre shift, LoRA r8": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.45689646809629253,
+    "RMSE": 0.37798291011462654,
+    "delta1": 0.23341200420619845,
+    "bias": 1.421421423906011,
+    "median_AbsRel": 0.10491455418903595,
+    "median_delta1": 0.9074981229402839
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.2136911930005636,
+    "RMSE": 0.5004553518608528,
+    "delta1": 0.6028123571518935,
+    "bias": 1.0802145285183058,
+    "median_AbsRel": 0.10823938532140064,
+    "median_delta1": 0.8449677350398855
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.2421334773766581,
+    "RMSE": 0.7137838845089114,
+    "delta1": 0.4073196328566911,
+    "bias": 0.7682642929778218,
+    "median_AbsRel": 0.07611418481463214,
+    "median_delta1": 0.9314818972405066
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.19435660866050114,
+    "RMSE": 0.793688942206378,
+    "delta1": 0.594216160811782,
+    "bias": 0.8584759495484272,
+    "median_AbsRel": 0.10046462378902804,
+    "median_delta1": 0.8766006850897132
+   }
+  },
+  "macro": {
+   "AbsRel": 0.27676943678350385,
+   "RMSE": 0.5964777721726922,
+   "delta1": 0.45944003875664124,
+   "bias": 1.0320940487376413,
+   "median_AbsRel": 0.0974331870285242,
+   "median_delta1": 0.8901371100775973
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Split + FastKAN votes, LoRA r16 all": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.5213851021805936,
+    "RMSE": 0.4593255563787728,
+    "delta1": 0.18187550041115444,
+    "bias": 1.4644999431869836,
+    "median_AbsRel": 0.12147653900476675,
+    "median_delta1": 0.8704034795833036
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.17828235843863702,
+    "RMSE": 0.46085491104013343,
+    "delta1": 0.6810179532719952,
+    "bias": 1.0505453737604393,
+    "median_AbsRel": 0.10543276851555229,
+    "median_delta1": 0.8426561974406347
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.18969041411471593,
+    "RMSE": 0.6260529394793557,
+    "delta1": 0.5730675987567327,
+    "bias": 0.8268187225888972,
+    "median_AbsRel": 0.07668594760962102,
+    "median_delta1": 0.9229560121184152
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.1859554958044901,
+    "RMSE": 0.8198396807863016,
+    "delta1": 0.6567982039992206,
+    "bias": 0.890397416918468,
+    "median_AbsRel": 0.10228795982454843,
+    "median_delta1": 0.8720814736627317
+   }
+  },
+  "macro": {
+   "AbsRel": 0.2688283426346092,
+   "RMSE": 0.5915182719211409,
+   "delta1": 0.5231898141097757,
+   "bias": 1.058065364113697,
+   "median_AbsRel": 0.10147080373862212,
+   "median_delta1": 0.8770242907012713
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Split + FastKAN votes, LoRA r8, + ARKit visits, fixed sampling": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.4575642234285845,
+    "RMSE": 0.37993274024818613,
+    "delta1": 0.22072703367246022,
+    "bias": 1.4187479896866748,
+    "median_AbsRel": 0.10358724432243703,
+    "median_delta1": 0.9096876877418175
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.16344736009235977,
+    "RMSE": 0.42386426306127384,
+    "delta1": 0.7480823625237388,
+    "bias": 1.08881858505239,
+    "median_AbsRel": 0.10702831822521264,
+    "median_delta1": 0.8551343092432913
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.22085184624344137,
+    "RMSE": 0.6827561043699137,
+    "delta1": 0.4583554909831299,
+    "bias": 0.7913541371899971,
+    "median_AbsRel": 0.07638679160711569,
+    "median_delta1": 0.9291894010507417
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.2052142297555982,
+    "RMSE": 0.8178825494990021,
+    "delta1": 0.5493221675864126,
+    "bias": 0.8521082510911776,
+    "median_AbsRel": 0.09925263904921497,
+    "median_delta1": 0.8754283375877236
+   }
+  },
+  "macro": {
+   "AbsRel": 0.26176941487999594,
+   "RMSE": 0.5761089142945939,
+   "delta1": 0.4941217636914354,
+   "bias": 1.03775724075506,
+   "median_AbsRel": 0.0965637483009951,
+   "median_delta1": 0.8923599339058934
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "FiLM + FastKAN (sec. 8, original data)": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.5719651253983689,
+    "RMSE": 0.4649268011396185,
+    "delta1": 0.1513391087994518,
+    "bias": 1.5159661266710902,
+    "median_AbsRel": 0.11326038038953323,
+    "median_delta1": 0.8836265060855097
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.1632117598360308,
+    "RMSE": 0.46335273520785186,
+    "delta1": 0.7468917205781008,
+    "bias": 1.0185082545910042,
+    "median_AbsRel": 0.12557066236055323,
+    "median_delta1": 0.8289867426294774
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.20974996255798226,
+    "RMSE": 0.714917004374687,
+    "delta1": 0.49557945829566213,
+    "bias": 0.8097332419669563,
+    "median_AbsRel": 0.10501108352839804,
+    "median_delta1": 0.8635948398268559
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.17866092261020963,
+    "RMSE": 0.7715925222493564,
+    "delta1": 0.7044757955544757,
+    "bias": 0.9332292641040487,
+    "median_AbsRel": 0.12017363439320579,
+    "median_delta1": 0.8395580621160325
+   }
+  },
+  "macro": {
+   "AbsRel": 0.2808969426006479,
+   "RMSE": 0.6036972657428784,
+   "delta1": 0.5245715208069226,
+   "bias": 1.0693592218332748,
+   "median_AbsRel": 0.11600394016792256,
+   "median_delta1": 0.8539415376644689
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Split + FastKAN, + SUN RGB-D, before tabletop data (sec. 12)": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.7050242894583998,
+    "RMSE": 0.5385666753038831,
+    "delta1": 0.08586852756580896,
+    "bias": 1.6805001198342935,
+    "median_AbsRel": 0.1052183124608526,
+    "median_delta1": 0.8876509614441853
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.20934360256609733,
+    "RMSE": 0.48756854344690764,
+    "delta1": 0.6076770066444281,
+    "bias": 1.1023486403388962,
+    "median_AbsRel": 0.12600043937394648,
+    "median_delta1": 0.8260926241493514
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.15553455237182462,
+    "RMSE": 0.5972951979975786,
+    "delta1": 0.7234731270762796,
+    "bias": 0.8709334240283836,
+    "median_AbsRel": 0.08222528203818051,
+    "median_delta1": 0.8989617007249481
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.1776912079525799,
+    "RMSE": 0.776088803642163,
+    "delta1": 0.7092512837460913,
+    "bias": 0.9490962539754679,
+    "median_AbsRel": 0.10647491755220564,
+    "median_delta1": 0.8561121116235892
+   }
+  },
+  "macro": {
+   "AbsRel": 0.3118984130872254,
+   "RMSE": 0.5998798050976332,
+   "delta1": 0.531567486258152,
+   "bias": 1.1507196095442602,
+   "median_AbsRel": 0.1049797378562963,
+   "median_delta1": 0.8672043494855186
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ },
+ "Split + FastKAN, + tabletop data, before lens balance (sec. 13)": {
+  "per_source": {
+   "7scenes_heads": {
+    "AbsRel": 0.6951652800083592,
+    "RMSE": 0.5312717857377747,
+    "delta1": 0.09053141398201316,
+    "bias": 1.6739115511299039,
+    "median_AbsRel": 0.10727014066275768,
+    "median_delta1": 0.8829415074522702
+   },
+   "7scenes_stairs": {
+    "AbsRel": 0.23854547270275958,
+    "RMSE": 0.5381110579696621,
+    "delta1": 0.5650487798662751,
+    "bias": 1.1291706981875,
+    "median_AbsRel": 0.12992220019498094,
+    "median_delta1": 0.8240384573473968
+   },
+   "tum_freiburg2_desk": {
+    "AbsRel": 0.2053749173343315,
+    "RMSE": 0.6662496513001298,
+    "delta1": 0.5295276296221668,
+    "bias": 0.8057879455822049,
+    "median_AbsRel": 0.08493415319441543,
+    "median_delta1": 0.9067760762945926
+   },
+   "tum_freiburg3_long_office_household": {
+    "AbsRel": 0.2248186721291658,
+    "RMSE": 0.867114719649602,
+    "delta1": 0.5307470385988846,
+    "bias": 0.8857868395775635,
+    "median_AbsRel": 0.1074337763101835,
+    "median_delta1": 0.8566026075064813
+   }
+  },
+  "macro": {
+   "AbsRel": 0.34097608554365405,
+   "RMSE": 0.6506868036642922,
+   "delta1": 0.4289637155173349,
+   "bias": 1.123664258619293,
+   "median_AbsRel": 0.10739006759058439,
+   "median_delta1": 0.8675896621501852
+  },
+  "images": 400,
+  "median_gt": {
+   "7scenes_heads": 0.7700000107288361,
+   "7scenes_stairs": 1.7494999766349792,
+   "tum_freiburg2_desk": 1.7333999872207642,
+   "tum_freiburg3_long_office_household": 1.6880000233650208
+  }
+ }
+}

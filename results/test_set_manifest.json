@@ -1,0 +1,6932 @@
+{
+ "protocol": {
+  "height": 252,
+  "width": 336,
+  "max_depth_m": 20.0,
+  "min_depth_m": 0.1,
+  "per_source_cap": 100,
+  "selection": "evenly spaced over the test pool of each source"
+ },
+ "samples": [
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_balloon_tracking2",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/rgb/1548266677.46823.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/depth/1548266677.47503.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_balloon_tracking2",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/rgb/1548266679.14442.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/depth/1548266679.14336.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_balloon_tracking2",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/rgb/1548266680.81984.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/depth/1548266680.81171.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_balloon_tracking2",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/rgb/1548266682.49549.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/depth/1548266682.48006.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_balloon_tracking2",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/rgb/1548266684.50597.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/depth/1548266684.51543.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_balloon_tracking2",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/rgb/1548266686.18181.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/depth/1548266686.18376.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_balloon_tracking2",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/rgb/1548266687.85792.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/depth/1548266687.85210.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_balloon_tracking2",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/rgb/1548266689.53270.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/depth/1548266689.52044.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_balloon_tracking2",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/rgb/1548266691.24227.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_balloon_tracking2/depth/1548266691.25550.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265478.60691.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265478.60365.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265480.28302.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265480.27209.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265481.95810.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265481.97385.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265483.96952.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265483.97597.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265485.64488.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265485.64436.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265487.32102.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265487.31280.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265488.99653.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265488.98119.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265490.67189.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265490.68299.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265492.34775.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265492.35136.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265494.02445.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265494.01985.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265495.69928.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265495.68822.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265497.71033.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265497.72370.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265499.41979.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265499.42548.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265501.09528.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265501.09386.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265502.77130.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265502.76233.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265504.44673.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265504.43075.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265506.12279.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265506.13252.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265507.83182.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265507.83430.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265509.84285.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265509.83644.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265511.55216.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265511.53820.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_kidnapping_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/rgb/1548265513.22762.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_kidnapping_box/depth/1548265513.23997.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339348.99320.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339348.99498.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339350.66962.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339350.66337.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339352.34525.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339352.33176.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339354.02091.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339354.03355.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339355.69657.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339355.70192.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339357.70836.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339357.70403.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339359.38349.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339359.37244.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339361.05937.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339361.07417.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339362.73459.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339362.74257.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339364.41035.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339364.41095.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339366.08640.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339366.07939.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_moving_obstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/rgb/1548339367.76182.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_moving_obstructing_box/depth/1548339367.74781.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265160.08072.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265160.07880.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265161.75588.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265161.74725.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265163.43182.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265163.41566.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265165.10739.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265165.11740.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265166.78363.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265166.78582.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265168.45939.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265168.45424.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265170.13478.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265170.12264.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265171.81113.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265171.82441.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265173.82118.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265173.82653.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265175.49709.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265175.49490.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265177.17279.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265177.16332.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265178.88197.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265178.89849.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265180.55778.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265180.56685.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_placing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/rgb/1548265182.23365.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_placing_nonobstructing_box/depth/1548265182.23527.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_removing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/rgb/1548265287.57145.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/depth/1548265287.57070.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_removing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/rgb/1548265289.24703.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/depth/1548265289.23915.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_removing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/rgb/1548265291.25771.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/depth/1548265291.24124.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_removing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/rgb/1548265292.93368.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/depth/1548265292.94300.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_removing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/rgb/1548265294.60921.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/depth/1548265294.61141.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_removing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/rgb/1548265296.28505.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/depth/1548265296.27984.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_removing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/rgb/1548265297.96063.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/depth/1548265297.94824.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_removing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/rgb/1548265299.63622.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/depth/1548265299.65001.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_removing_nonobstructing_box",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/rgb/1548265301.31205.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_removing_nonobstructing_box/depth/1548265301.31842.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340550.22851.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340550.21507.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340551.90403.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340551.91678.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340553.57972.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340553.58522.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340555.25733.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340555.25363.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340556.93315.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340556.92208.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340558.60632.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340558.59040.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340560.28269.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340560.29218.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340561.95801.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340561.96055.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340563.96924.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340563.96263.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340565.64488.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340565.63104.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340567.32052.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340567.33282.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340569.06315.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340569.06788.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340570.73966.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340570.73634.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340572.41455.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340572.40471.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340574.09020.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340574.10650.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340576.10141.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340576.10855.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340577.77758.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340577.77695.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340579.45287.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340579.44541.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340581.12883.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340581.11378.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340582.80474.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340582.81556.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340584.48158.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340584.48398.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340586.15598.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340586.15235.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340587.86500.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340587.85410.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340589.87578.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340589.88957.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340591.58532.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340591.59130.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340593.26118.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340593.25972.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340594.93690.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340594.92811.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340596.64650.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340596.62986.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340598.35525.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340598.36501.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340600.03118.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340600.03339.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340601.70698.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340601.70180.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340603.71763.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340603.70390.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340605.42645.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340605.43902.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340607.13597.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340607.14079.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "bonn",
+   "scene": "rgbd_bonn_static_close_far",
+   "rgb": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/rgb/1548340608.81237.png",
+   "depth": "bonn_rgbd_dynamic/extracted/rgbd_bonn_dataset/rgbd_bonn_static_close_far/depth/1548340608.80918.png",
+   "K": [
+    542.822841,
+    542.57687,
+    315.59352,
+    237.756098
+   ],
+   "dist": [
+    0.039903,
+    -0.099343,
+    -0.00073,
+    -0.000144,
+    0.0
+   ]
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00018.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00018.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00034.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00034.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00042.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00042.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00061.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00061.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00085.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00085.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00118.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00118.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00132.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00132.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00168.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00168.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00180.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00180.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00188.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00188.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00196.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00196.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00208.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00208.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00250.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00250.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00282.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00282.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00300.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00300.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00317.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00317.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00332.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00332.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00357.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00357.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00384.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00384.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00396.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00396.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00432.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00432.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00445.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00445.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00466.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00466.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00476.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00476.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00515.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00515.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00523.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00523.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00538.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00538.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00558.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00558.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00566.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00566.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00581.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00581.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00604.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00604.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00619.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00619.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00638.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00638.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00663.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00663.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00676.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00676.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00688.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00688.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00706.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00706.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00717.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00717.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00732.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00732.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00762.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00762.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00770.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00770.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00778.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00778.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00786.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00786.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00811.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00811.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00834.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00834.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00842.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00842.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00857.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00857.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00871.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00871.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00927.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00927.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00947.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00947.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00970.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00970.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_00991.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_00991.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01004.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01004.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01033.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01033.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01057.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01057.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01081.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01081.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01092.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01092.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01101.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01101.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01117.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01117.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01128.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01128.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01146.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01146.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01154.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01154.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01165.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01165.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01179.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01179.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01194.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01194.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01206.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01206.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01217.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01217.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01230.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01230.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01254.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01254.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01262.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01262.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01279.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01279.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01291.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01291.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01302.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01302.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01315.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01315.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01338.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01338.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01355.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01355.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01386.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01386.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01396.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01396.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01409.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01409.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01423.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01423.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "nyu",
+   "scene": "nyu",
+   "rgb": "nyu_v2_val/nyu_test/image/image_01443.png",
+   "depth": "nyu_v2_val/nyu_test/depth/depth_01443.npy",
+   "K": [
+    518.857901,
+    519.469611,
+    325.582449,
+    253.736166
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4001.764.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4001.764.png",
+   "K": [
+    1596.984,
+    1596.984,
+    937.335,
+    708.009
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4003.764.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4003.764.png",
+   "K": [
+    1599.696,
+    1599.696,
+    936.7620000000001,
+    707.895
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4005.963.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4005.963.png",
+   "K": [
+    1592.466,
+    1592.466,
+    937.347,
+    707.625
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4008.062.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4008.062.png",
+   "K": [
+    1592.466,
+    1592.466,
+    937.3890000000001,
+    707.688
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4012.360.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4012.360.png",
+   "K": [
+    1591.56,
+    1591.56,
+    936.795,
+    707.9639999999999
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4014.559.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4014.559.png",
+   "K": [
+    1604.667,
+    1604.667,
+    936.615,
+    708.1800000000001
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4019.257.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4019.257.png",
+   "K": [
+    1607.829,
+    1607.829,
+    936.447,
+    707.802
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4023.056.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4023.056.png",
+   "K": [
+    1598.34,
+    1598.34,
+    935.7149999999999,
+    707.553
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4029.753.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4029.753.png",
+   "K": [
+    1606.473,
+    1606.473,
+    936.846,
+    707.427
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4031.952.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4031.952.png",
+   "K": [
+    1607.829,
+    1607.829,
+    936.879,
+    707.463
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4034.051.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4034.051.png",
+   "K": [
+    1607.379,
+    1607.379,
+    937.146,
+    707.5889999999999
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4037.450.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4037.450.png",
+   "K": [
+    1606.9260000000002,
+    1606.9260000000002,
+    936.855,
+    707.8290000000001
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4039.549.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4039.549.png",
+   "K": [
+    1607.379,
+    1607.379,
+    937.233,
+    707.6519999999999
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4045.646.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4045.646.png",
+   "K": [
+    1585.236,
+    1585.236,
+    937.4879999999999,
+    707.46
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4047.845.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4047.845.png",
+   "K": [
+    1594.272,
+    1594.272,
+    936.807,
+    707.4209999999999
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4049.845.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4049.845.png",
+   "K": [
+    1591.56,
+    1591.56,
+    937.125,
+    708.3389999999999
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4054.043.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4054.043.png",
+   "K": [
+    1606.0230000000001,
+    1606.0230000000001,
+    936.7470000000001,
+    707.817
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4056.142.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4056.142.png",
+   "K": [
+    1605.12,
+    1605.12,
+    937.1220000000001,
+    708.342
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4058.341.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4058.341.png",
+   "K": [
+    1605.5700000000002,
+    1605.5700000000002,
+    936.3119999999999,
+    708.792
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4060.440.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4060.440.png",
+   "K": [
+    1606.0230000000001,
+    1606.0230000000001,
+    937.0919999999999,
+    708.4019999999999
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4062.539.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4062.539.png",
+   "K": [
+    1605.5700000000002,
+    1605.5700000000002,
+    936.885,
+    708.552
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4064.539.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4064.539.png",
+   "K": [
+    1614.609,
+    1614.609,
+    937.008,
+    707.871
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4066.638.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4066.638.png",
+   "K": [
+    1617.321,
+    1617.321,
+    937.2660000000001,
+    707.355
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "41142278",
+   "rgb": "arkitscenes_sub/Validation/41142278/wide/41142278_4068.737.png",
+   "depth": "arkitscenes_sub/Validation/41142278/highres_depth/41142278_4068.737.png",
+   "K": [
+    1617.321,
+    1617.321,
+    936.96,
+    707.3820000000001
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49609.280.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49609.280.png",
+   "K": [
+    1597.4370000000001,
+    1597.4370000000001,
+    963.96,
+    714.432
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49611.379.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49611.379.png",
+   "K": [
+    1600.1490000000001,
+    1600.1490000000001,
+    963.3929999999999,
+    714.54
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49613.478.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49613.478.png",
+   "K": [
+    1598.7930000000001,
+    1598.7930000000001,
+    963.3570000000001,
+    714.387
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49615.577.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49615.577.png",
+   "K": [
+    1597.4370000000001,
+    1597.4370000000001,
+    964.545,
+    714.375
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49617.776.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49617.776.png",
+   "K": [
+    1594.272,
+    1594.272,
+    964.491,
+    714.522
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49619.776.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49619.776.png",
+   "K": [
+    1577.1000000000001,
+    1577.1000000000001,
+    963.501,
+    714.498
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49621.875.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49621.875.png",
+   "K": [
+    1592.0130000000001,
+    1592.0130000000001,
+    963.432,
+    714.642
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49624.074.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49624.074.png",
+   "K": [
+    1592.0130000000001,
+    1592.0130000000001,
+    963.549,
+    714.531
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49627.073.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49627.073.png",
+   "K": [
+    1589.3010000000002,
+    1589.3010000000002,
+    963.972,
+    714.54
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49629.172.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49629.172.png",
+   "K": [
+    1588.8509999999999,
+    1588.8509999999999,
+    964.4820000000001,
+    714.318
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49631.271.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49631.271.png",
+   "K": [
+    1588.8509999999999,
+    1588.8509999999999,
+    964.212,
+    714.489
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49636.669.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49636.669.png",
+   "K": [
+    1592.466,
+    1592.466,
+    963.7320000000001,
+    714.762
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49638.768.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49638.768.png",
+   "K": [
+    1590.6570000000002,
+    1590.6570000000002,
+    963.3240000000001,
+    714.534
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49640.867.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49640.867.png",
+   "K": [
+    1588.8509999999999,
+    1588.8509999999999,
+    964.3499999999999,
+    714.4680000000001
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49642.966.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49642.966.png",
+   "K": [
+    1591.1100000000001,
+    1591.1100000000001,
+    963.315,
+    714.6179999999999
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49644.966.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49644.966.png",
+   "K": [
+    1592.916,
+    1592.916,
+    963.8399999999999,
+    714.627
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49647.065.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49647.065.png",
+   "K": [
+    1590.2069999999999,
+    1590.2069999999999,
+    963.42,
+    714.21
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49655.461.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49655.461.png",
+   "K": [
+    1594.272,
+    1594.272,
+    964.347,
+    714.462
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49657.661.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49657.661.png",
+   "K": [
+    1587.042,
+    1587.042,
+    964.3530000000001,
+    714.486
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49659.960.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49659.960.png",
+   "K": [
+    1587.042,
+    1587.042,
+    963.879,
+    714.5250000000001
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49662.159.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49662.159.png",
+   "K": [
+    1587.9450000000002,
+    1587.9450000000002,
+    963.627,
+    714.519
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49664.258.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49664.258.png",
+   "K": [
+    1604.2140000000002,
+    1604.2140000000002,
+    963.309,
+    714.414
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42445028",
+   "rgb": "arkitscenes_sub/Validation/42445028/wide/42445028_49666.357.png",
+   "depth": "arkitscenes_sub/Validation/42445028/highres_depth/42445028_49666.357.png",
+   "K": [
+    1606.0230000000001,
+    1606.0230000000001,
+    963.519,
+    714.363
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77923.274.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77923.274.png",
+   "K": [
+    1576.6499999999999,
+    1576.6499999999999,
+    963.4590000000001,
+    714.363
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77925.473.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77925.473.png",
+   "K": [
+    1594.272,
+    1594.272,
+    963.894,
+    714.429
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77927.672.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77927.672.png",
+   "K": [
+    1593.8220000000001,
+    1593.8220000000001,
+    964.0919999999999,
+    714.246
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77929.771.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77929.771.png",
+   "K": [
+    1594.272,
+    1594.272,
+    963.8039999999999,
+    714.198
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77936.669.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77936.669.png",
+   "K": [
+    1596.984,
+    1596.984,
+    963.447,
+    714.378
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77938.868.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77938.868.png",
+   "K": [
+    1594.272,
+    1594.272,
+    963.6089999999999,
+    714.438
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77941.067.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77941.067.png",
+   "K": [
+    1594.272,
+    1594.272,
+    963.864,
+    714.285
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77943.566.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77943.566.png",
+   "K": [
+    1597.4370000000001,
+    1597.4370000000001,
+    963.8130000000001,
+    714.342
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77945.865.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77945.865.png",
+   "K": [
+    1597.8870000000002,
+    1597.8870000000002,
+    963.8609999999999,
+    714.27
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77947.964.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77947.964.png",
+   "K": [
+    1595.1779999999999,
+    1595.1779999999999,
+    963.3689999999999,
+    714.399
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77959.560.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77959.560.png",
+   "K": [
+    1594.272,
+    1594.272,
+    963.5520000000001,
+    714.471
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77961.659.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77961.659.png",
+   "K": [
+    1594.272,
+    1594.272,
+    963.423,
+    714.414
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77963.858.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77963.858.png",
+   "K": [
+    1595.628,
+    1595.628,
+    963.315,
+    714.405
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77970.255.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77970.255.png",
+   "K": [
+    1597.8870000000002,
+    1597.8870000000002,
+    964.458,
+    714.762
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77972.454.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77972.454.png",
+   "K": [
+    1596.0810000000001,
+    1596.0810000000001,
+    963.3720000000001,
+    714.405
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77974.454.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77974.454.png",
+   "K": [
+    1594.272,
+    1594.272,
+    963.7739999999999,
+    714.261
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77977.552.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77977.552.png",
+   "K": [
+    1594.7250000000001,
+    1594.7250000000001,
+    963.528,
+    714.216
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77985.349.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77985.349.png",
+   "K": [
+    1595.628,
+    1595.628,
+    964.749,
+    714.5699999999999
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77991.447.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77991.447.png",
+   "K": [
+    1609.185,
+    1609.185,
+    963.72,
+    714.354
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77997.145.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77997.145.png",
+   "K": [
+    1610.0880000000002,
+    1610.0880000000002,
+    963.507,
+    714.246
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_77999.344.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_77999.344.png",
+   "K": [
+    1610.541,
+    1610.541,
+    963.315,
+    714.384
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_78002.043.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_78002.043.png",
+   "K": [
+    1612.3500000000001,
+    1612.3500000000001,
+    963.651,
+    714.504
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_78004.342.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_78004.342.png",
+   "K": [
+    1609.6380000000001,
+    1609.6380000000001,
+    963.5520000000001,
+    714.309
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_78006.441.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_78006.441.png",
+   "K": [
+    1595.628,
+    1595.628,
+    963.336,
+    714.492
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_78008.540.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_78008.540.png",
+   "K": [
+    1597.8870000000002,
+    1597.8870000000002,
+    963.915,
+    714.459
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_78010.639.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_78010.639.png",
+   "K": [
+    1596.0810000000001,
+    1596.0810000000001,
+    963.3000000000001,
+    714.3810000000001
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_78013.038.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_78013.038.png",
+   "K": [
+    1594.272,
+    1594.272,
+    963.8609999999999,
+    714.4019999999999
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_78027.433.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_78027.433.png",
+   "K": [
+    1597.8870000000002,
+    1597.8870000000002,
+    963.5520000000001,
+    714.417
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_78029.632.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_78029.632.png",
+   "K": [
+    1596.531,
+    1596.531,
+    963.318,
+    714.336
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_78032.031.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_78032.031.png",
+   "K": [
+    1595.628,
+    1595.628,
+    963.4440000000001,
+    714.165
+   ],
+   "dist": null
+  },
+  {
+   "source": "arkit",
+   "scene": "42446100",
+   "rgb": "arkitscenes_sub/Validation/42446100/wide/42446100_78039.328.png",
+   "depth": "arkitscenes_sub/Validation/42446100/highres_depth/42446100_78039.328.png",
+   "K": [
+    1597.4370000000001,
+    1597.4370000000001,
+    963.3119999999999,
+    714.306
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_000_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_000_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_020_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_020_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_030_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_030_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_040_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_040_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_040_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_040_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_050_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_050_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_060_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_060_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_060_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_060_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_070_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_070_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_070_040.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_070_040_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_080_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_080_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_080_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_080_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_090_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_090_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_090_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_090_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_100_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_100_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_110_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_110_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_110_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_110_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_120_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_120_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_130_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_130_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_130_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_130_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_140_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_140_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_140_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_140_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_150_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_150_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_150_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_150_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_160_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_160_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_160_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_160_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_170_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_170_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_170_040.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_170_040_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_190_050.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_190_050_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_200_040.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_200_040_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_210_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_210_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_210_050.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_210_050_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_220_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_220_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_220_040.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_220_040_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_230_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_230_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_230_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_230_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_230_050.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_230_050_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_240_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_240_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_240_040.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_240_040_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_250_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_250_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_250_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_250_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_250_050.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_250_050_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_260_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_260_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_260_040.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_260_040_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_270_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_270_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_320_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_320_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_330_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_330_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00020/scan_00186",
+   "rgb": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_340_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00020/scan_00186/00020_00186_indoors_340_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_050_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_050_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_050_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_050_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_060_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_060_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_060_040.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_060_040_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_070_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_070_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_070_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_070_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_080_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_080_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_090_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_090_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_090_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_090_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_100_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_100_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_110_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_110_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_110_050.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_110_050_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_120_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_120_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_130_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_130_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_140_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_140_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_140_040.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_140_040_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_150_030.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_150_030_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_150_050.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_150_050_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_190_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_190_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_270_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_270_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_280_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_280_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_280_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_280_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_290_010.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_290_010_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_300_000.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_300_000_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "diode",
+   "scene": "scene_00021/scan_00190",
+   "rgb": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_300_020.png",
+   "depth": "diode_val/extracted/val/indoors/scene_00021/scan_00190/00021_00190_indoors_300_020_depth.npy",
+   "K": [
+    886.81,
+    927.06,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "hypersim",
+   "scene": "ai_005_001",
+   "rgb": "hypersim_sub/ai_005_001/images/scene_cam_00_final_preview/frame.0000.color.jpg",
+   "depth": "hypersim_sub/ai_005_001/images/scene_cam_00_geometry_hdf5/frame.0000.depth_meters.hdf5",
+   "K": [
+    886.8099838048744,
+    886.8099838048743,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "hypersim",
+   "scene": "ai_005_001",
+   "rgb": "hypersim_sub/ai_005_001/images/scene_cam_00_final_preview/frame.0030.color.jpg",
+   "depth": "hypersim_sub/ai_005_001/images/scene_cam_00_geometry_hdf5/frame.0030.depth_meters.hdf5",
+   "K": [
+    886.8099838048744,
+    886.8099838048743,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "hypersim",
+   "scene": "ai_005_001",
+   "rgb": "hypersim_sub/ai_005_001/images/scene_cam_00_final_preview/frame.0060.color.jpg",
+   "depth": "hypersim_sub/ai_005_001/images/scene_cam_00_geometry_hdf5/frame.0060.depth_meters.hdf5",
+   "K": [
+    886.8099838048744,
+    886.8099838048743,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "hypersim",
+   "scene": "ai_005_001",
+   "rgb": "hypersim_sub/ai_005_001/images/scene_cam_00_final_preview/frame.0090.color.jpg",
+   "depth": "hypersim_sub/ai_005_001/images/scene_cam_00_geometry_hdf5/frame.0090.depth_meters.hdf5",
+   "K": [
+    886.8099838048744,
+    886.8099838048743,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "hypersim",
+   "scene": "ai_042_001",
+   "rgb": "hypersim_sub/ai_042_001/images/scene_cam_00_final_preview/frame.0000.color.jpg",
+   "depth": "hypersim_sub/ai_042_001/images/scene_cam_00_geometry_hdf5/frame.0000.depth_meters.hdf5",
+   "K": [
+    886.8080813310015,
+    886.8099839135166,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "hypersim",
+   "scene": "ai_042_001",
+   "rgb": "hypersim_sub/ai_042_001/images/scene_cam_00_final_preview/frame.0030.color.jpg",
+   "depth": "hypersim_sub/ai_042_001/images/scene_cam_00_geometry_hdf5/frame.0030.depth_meters.hdf5",
+   "K": [
+    886.8080813310015,
+    886.8099839135166,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "hypersim",
+   "scene": "ai_042_001",
+   "rgb": "hypersim_sub/ai_042_001/images/scene_cam_00_final_preview/frame.0060.color.jpg",
+   "depth": "hypersim_sub/ai_042_001/images/scene_cam_00_geometry_hdf5/frame.0060.depth_meters.hdf5",
+   "K": [
+    886.8080813310015,
+    886.8099839135166,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "hypersim",
+   "scene": "ai_042_001",
+   "rgb": "hypersim_sub/ai_042_001/images/scene_cam_00_final_preview/frame.0090.color.jpg",
+   "depth": "hypersim_sub/ai_042_001/images/scene_cam_00_geometry_hdf5/frame.0090.depth_meters.hdf5",
+   "K": [
+    886.8080813310015,
+    886.8099839135166,
+    512.0,
+    384.0
+   ],
+   "dist": null
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031453.359684.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031453.374112.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031454.027662.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031454.040976.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031454.691884.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031454.702030.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031455.327766.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031455.310303.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031455.991694.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031456.008998.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031456.891672.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031456.878006.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031457.827699.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031457.842853.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031458.591641.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031458.576178.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031459.527594.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031459.510267.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031460.327512.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031460.311712.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031461.127586.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031461.111961.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031461.791612.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031461.778616.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031462.291629.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031462.280774.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031462.959676.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031462.947939.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031463.659766.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031463.646147.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031464.327866.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031464.315699.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031464.827759.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031464.816195.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031465.495703.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031465.483803.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031466.160428.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031466.152540.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031466.827879.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031466.819502.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031467.496058.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031467.484357.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031467.995754.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031467.988523.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031468.659579.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031468.656644.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031469.327618.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031469.319772.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031469.995551.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031469.985327.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031470.495686.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031470.487958.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031471.159649.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031471.155886.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031471.827639.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031471.823821.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031472.495626.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031472.492972.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_desk",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/rgb/1305031473.167060.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_desk/depth/1305031473.158420.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031911.197213.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031911.207568.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031911.865269.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031911.871650.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031912.533113.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031912.540326.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031913.197113.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031913.208546.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031913.697243.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031913.709971.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031914.365058.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031914.376077.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031915.033152.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031915.044015.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031915.701106.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031915.710920.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031916.365121.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031916.375943.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031916.865085.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031916.874597.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031917.533057.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031917.544881.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031918.201086.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031918.214208.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031918.933071.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031918.948107.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031919.465070.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031919.480223.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031920.301096.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031920.316524.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031921.133159.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031921.147542.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031922.101032.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031922.084015.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031922.901109.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031922.883570.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031923.501145.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031923.483984.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031924.233238.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031924.221139.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031924.901110.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031924.887231.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031925.633430.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031925.620389.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031926.169101.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031926.155476.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031926.933348.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031926.920915.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031927.601132.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031927.587778.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031928.301255.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031928.287847.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031928.969097.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031928.955544.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031929.469219.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031929.455568.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031930.134163.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031930.122266.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031930.801055.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031930.791524.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031931.469079.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031931.459719.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031931.968902.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031931.959755.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031932.632929.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031932.627666.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031933.300869.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031933.296061.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031933.968843.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031933.964067.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031934.637030.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031934.627102.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031935.136853.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031935.130727.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031935.801178.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031935.795359.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031936.468789.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031936.463134.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031937.136838.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031937.131381.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031937.636891.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031937.627766.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031938.300837.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031938.300089.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031938.969026.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031938.967685.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031939.636792.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031939.635762.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031940.301146.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031940.300057.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031940.803047.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031940.803100.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031941.469611.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031941.469619.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031942.136758.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031942.135205.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031942.801557.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031942.801585.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031943.303965.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031943.303977.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031943.971278.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031943.971293.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031944.639625.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031944.639988.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031945.306358.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031945.306364.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031945.969300.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031945.977263.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031946.468964.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031946.473076.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031947.137044.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031947.142937.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031947.804941.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031947.811424.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031948.469170.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031948.480437.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031948.968952.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031948.979038.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031949.637172.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031949.646345.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031950.304978.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031950.307722.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031950.968904.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031950.978853.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031951.636936.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031951.647946.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031952.136943.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031952.147987.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031952.804919.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031952.815896.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031953.473261.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031953.483838.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031954.136939.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031954.152181.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031954.636862.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031954.651711.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031955.372861.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031955.385074.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  },
+  {
+   "source": "tum_indoor",
+   "scene": "rgbd_dataset_freiburg1_room",
+   "rgb": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/rgb/1305031956.104901.png",
+   "depth": "tum_indoor/extracted/rgbd_dataset_freiburg1_room/depth/1305031956.119493.png",
+   "K": [
+    517.3,
+    516.5,
+    318.6,
+    255.3
+   ],
+   "dist": [
+    0.2624,
+    -0.9531,
+    -0.0054,
+    0.0026,
+    1.1633
+   ]
+  }
+ ]
+}
